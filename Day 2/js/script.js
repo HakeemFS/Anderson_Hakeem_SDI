@@ -100,3 +100,42 @@ tester /=3; // tester = tester/3;
 tester *=6; // tester = tester*6
 
 console.log(tester);
+
+// Orders of Operation
+// PEMDAS - Please Excuse My Dear Aunt Sally
+
+
+//Find Quiz Averages
+var quiz1 = 87;
+var quiz2 = 100;
+var quiz3 = 70;
+
+// Add up all and divide by the number of quiz
+var average = (quiz1 + quiz2 + quiz3) /3;
+
+console.log(average);
+
+//String - text for coding
+// Must have matching " or '
+// Needed to seperate variable names from standard test
+
+var kermit =  "Light green";
+var frogName = "Kermit";
+
+console.log(frogName);
+
+//Double or single quotes?
+//Escape character \ Backslash
+var phrase = 'I don\'t know.\nYou never know!';
+console.log(phrase);
+
+// \n New Line Character
+
+
+//Booleans - true or false
+//Light switches of programming
+var yes = true;
+var no = "false";
+var notCorrect = false;
+
+//A string of "false" is not a boolean of false
