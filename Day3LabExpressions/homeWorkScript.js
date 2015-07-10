@@ -29,5 +29,15 @@ console.log("The number of slices per person "+SPP);
 var sparky = boxesOrdered*slices%people
 console.log("The number of pieces remaining for Sparky "+sparky)
 
+//Average Bill Shopping
+//Weekly Grocery bills
 
+var WGB = 5;
 
+//Total amount spent
+
+var TAS = 500.50
+
+//Average Weekly Grocery Spending
+// TAS/WGB
+console.log("The average weekly grocery spending is "+TAS/WGB)
