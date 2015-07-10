@@ -24,4 +24,10 @@ var SPP = slices * boxesOrdered/people;
 console.log("The number of slices per person "+SPP);
 
 
+//Number of pieces for Sparky
+
+var sparky = boxesOrdered*slices%people
+console.log("The number of pieces remaining for Sparky "+sparky)
+
+
 
