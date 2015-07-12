@@ -13,7 +13,16 @@ Expression Assignment
 
 
 //Points by quarter
-var pointsScoredQuarterOne = prompt("Enter your points scored in the 1st quarter");
-var pointsScoredQuarterTwo = prompt("Enter your points scored in the 2nd quarter");
-var pointsScoredQuarterThree = prompt("Enter your points scored in the 3rd quarter");
-var pointsScoredQuarterFour = prompt("Enter your points scored in the 4th quarter");
+var pointsScoredQuarterOne = parseInt(prompt("Enter your points scored in the 1st quarter"));
+var pointsScoredQuarterTwo = parseInt(prompt("Enter your points scored in the 2nd quarter"));
+var pointsScoredQuarterThree = parseInt(prompt("Enter your points scored in the 3rd quarter"));
+var pointsScoredQuarterFour = parseInt(prompt("Enter your points scored in the 4th quarter"));
+
+//Adding array to calculate Average
+var pointsArray = [pointsScoredQuarterOne,pointsScoredQuarterTwo,pointsScoredQuarterThree,pointsScoredQuarterFour];
+var total = pointsScoredQuarterOne+pointsScoredQuarterTwo+pointsScoredQuarterThree+pointsScoredQuarterFour;
+
+
+//Finding the average
+var average = total / pointsArray.length;
+console.log("Your average points per quarter is " +average);
