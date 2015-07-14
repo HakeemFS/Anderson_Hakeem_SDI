@@ -31,15 +31,19 @@ if(oldEnough){
 //test the kids height
 
 
-var kidHeight = 42;
-
-var sneakerLift =2;
+var kidHeight = prompt("How tall are you in inches?");
+var sneakerLift = 2;
+var minHeight = 48;
 
 //if the child is 48 or taller they can ride the ride
-if(kidHeight>=48){
+if(kidHeight>=minHeight){
 //code inside of here will run if the child is 48 or taller
     console.log("Congrats you are tall enough to ride the coster!");
+} else if(Number(kidHeight)+sneakerLift >=minHeight) {
+    //This cold will run if the child is tall enough with sneaker lifts
+    console.log("You are tall enough to ride the coster with your sneaker lifts");
 } else {
+
     console.log("Sorry you are too short to ride the coster");
 }
 
