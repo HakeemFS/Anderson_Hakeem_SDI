@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="38d895db-c6bd-4cce-ba03-f4b8f4583f23" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Anderson_Hakeem_Expression_Assignment/ExpressionAssignment.js" afterPath="$PROJECT_DIR$/Anderson_Hakeem_Expression_Assignment/ExpressionAssignment.js" />
-    </list>
+    <list default="true" id="38d895db-c6bd-4cce-ba03-f4b8f4583f23" name="Default" comment="" />
     <ignored path="Anderson_Hakeem_SDI.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
