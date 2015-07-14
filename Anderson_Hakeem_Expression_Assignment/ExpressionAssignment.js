@@ -9,7 +9,6 @@ Expression Assignment
 //alert("Testing to see if this works");
 
 //Calculating average points per quarter through 4 quarters of basketball
-//
 
 
 //Points by quarter
@@ -26,3 +25,18 @@ var total = pointsScoredQuarterOne+pointsScoredQuarterTwo+pointsScoredQuarterThr
 //Finding the average
 var average = total / pointsArray.length;
 console.log("Your average points per quarter is " +average);
+
+//Assignment operator
+
+var PPQ = parseFloat(16.25);
+PPQ++;
+console.log(PPQ);
+/*
+Test Data
+Carmelo Anthony 62pt Game
+Jan/24/2014 Knicks vs Bobcats
+1st Quarter 20pts
+2nd Quarter 17pts
+3rd Quarter 22pts
+4th Quarter 6pts
+ */
