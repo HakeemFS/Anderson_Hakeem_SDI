@@ -7,6 +7,6 @@ Conditionals Homework
  */
 
 
-//alert("Testing to see if this works");
+alert("Testing to see if this works");
 
  //
