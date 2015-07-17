@@ -38,7 +38,7 @@ var waterTemp=78;
        //re-prompt the user
          kids = prompt("Pleae only type in yes or no!\nAre you bringing kids?");
      }
-    
+
 
      //if kids are coming go see Minions if not go see Antman
 //.toLowerCase() - changes a text to lower case
