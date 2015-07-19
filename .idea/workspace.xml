@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38d895db-c6bd-4cce-ba03-f4b8f4583f23" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Anderson_Hakeem_Expression_Assignment/Day4/Day4_Ternary.HTML.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Anderson_Hakeem_Expression_Assignment/Day4/day4_Logical.HTML.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Anderson_Hakeem_Expression_Assignment/Day4/day4conditional.HTML.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Anderson_Hakeem_Expression_Assignment/Day4/js/ExpressionAssignment.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Anderson_Hakeem_Expression_Assignment/Day4/js/day4_Logical.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Anderson_Hakeem_Expression_Assignment/Day4/js/day4_Ternary.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Anderson_Hakeem_Expression_Assignment/Day4/js/day4_conditionals.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 6/js/Day6_Math.js" afterPath="$PROJECT_DIR$/Day 6/js/Day6_Math.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Anderson_Hakeem_Expression_Assignment/ExpressionAssignment.html" afterPath="$PROJECT_DIR$/Anderson_Hakeem_Expression_Assignment/ExpressionAssignment.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Anderson_Hakeem_Conditionals_Assignment/conditionalsAssignment.html" afterPath="$PROJECT_DIR$/Anderson_Hakeem_Conditionals_Assignment/conditionalsAssignment.html" />
     </list>
     <ignored path="Anderson_Hakeem_SDI.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -32,41 +23,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="day5_conditionals.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day 5/js/day5_conditionals.js">
+      <file leaf-file-name="Day6_While_loops.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day 6/Day6_While_loops.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="56" column="0" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+            <state vertical-scroll-proportion="-4.375">
+              <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="nestingIf.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day 5/js/nestingIf.js">
+      <file leaf-file-name="Day6_While_Loops.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Day 6/js/Day6_While_Loops.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Day6_Math.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Day 6/js/Day6_Math.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.96363634">
-              <caret line="67" column="1" selection-start-line="67" selection-start-column="1" selection-end-line="67" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Day6_Math.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day 6/Day6_Math.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.125">
-              <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+            <state vertical-scroll-proportion="0.65789473">
+              <caret line="35" column="17" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -82,24 +53,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="conditionalsAssignment.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Anderson_Hakeem_Conditionals_Assignment/conditionalsAssignment.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.0">
-              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
-        <option value="SDtemplate" />
         <option value="Html5" />
+        <option value="SDtemplate" />
       </list>
     </option>
   </component>
@@ -140,6 +101,8 @@
         <option value="$PROJECT_DIR$/Anderson_Hakeem_Conditionals_Assignment/js/conditionalsAssignment.js" />
         <option value="$PROJECT_DIR$/Day 6/Day6_Math.html" />
         <option value="$PROJECT_DIR$/Day 6/js/Day6_Math.js" />
+        <option value="$PROJECT_DIR$/Day 6/Day6_While_loops.html" />
+        <option value="$PROJECT_DIR$/Day 6/js/Day6_While_Loops.js" />
       </list>
     </option>
   </component>
@@ -639,10 +602,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Anderson_Hakeem_Conditionals_Assignment/conditionalsAssignment.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.0">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 5/js/nestingIf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.58181816">
+          <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Day 5/js/day5_conditionals.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="56" column="0" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 6/Day6_Math.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.09363296">
+          <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
           <folding />
         </state>
       </provider>
@@ -655,34 +642,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Anderson_Hakeem_Conditionals_Assignment/conditionalsAssignment.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.0">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day 5/js/nestingIf.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day 6/Day6_Math.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.125">
-          <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Day 6/js/Day6_Math.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.96363634">
-          <caret line="67" column="1" selection-start-line="67" selection-start-column="1" selection-end-line="67" selection-end-column="1" />
+        <state vertical-scroll-proportion="1.2181818">
+          <caret line="67" column="0" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 6/Day6_While_loops.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.375">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 6/js/Day6_While_Loops.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.65789473">
+          <caret line="35" column="17" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
           <folding />
         </state>
       </provider>
