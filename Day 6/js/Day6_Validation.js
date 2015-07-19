@@ -39,4 +39,3 @@ while(color.toLocaleLowerCase() !="red" && color.toLowerCase() !="black"){
  color=prompt("Please only type in red or black.\nPlease choose your color.");
 
 }
- 
