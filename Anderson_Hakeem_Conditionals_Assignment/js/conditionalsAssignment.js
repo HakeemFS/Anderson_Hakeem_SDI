@@ -20,11 +20,10 @@ Conditionals Homework
  var ticketNumber =prompt("How many tickets do you have?\nPlease enter a number.");
 
  //Is your ticket amount high enough for a prize
-
-
  //Ternary Conversion
  (ticketNumber>499)? console.log("You are eligible for a Prize"): console.log("Sorry, you do not have enough tickets.");
 
+//Conditionals
  if(ticketNumber>=1000) {
   console.log("You earned a Tier 1 Prize!");
  }else if (ticketNumber>=800 && ticketNumber<1000){
@@ -48,7 +47,12 @@ Conditionals Homework
  //Tier 2 Prizes = Beats Headphones || SmartWatch
  //Tier 3 Prizes = Hoodie || Tee Shirt
 
- 
+ if (ticketNumber>=1000){
+  prompt("You are a Tier 1 Prize Winner!\nYou won your choice between an Xbox One or Playstation 4!\nChoose 1 on your keyboard for the Xbox One.\nChoose 4 on your keyboard for the Playstation 4.");
+
+ }
+
+
 
 
 /*
