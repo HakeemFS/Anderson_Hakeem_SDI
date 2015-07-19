@@ -16,3 +16,17 @@ For Loops
   console.log("The value of i is "+i);
 
  }
+
+ //Breaks - if this command is run your loop will stop
+
+ for(var j=0; j<5; j++){
+  console.log("The value of j is "+j);
+
+  //if the value of j is 3 stop the loop
+  if(j===3){
+   break;
+  }
+ }
+
+
+ 
