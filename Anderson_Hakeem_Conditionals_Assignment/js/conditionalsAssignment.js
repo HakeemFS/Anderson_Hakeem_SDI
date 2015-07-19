@@ -15,6 +15,7 @@ Conditionals Homework
 */
 
  //Calculating what prize you can buy with Carnival Tickets
+ //Is your ticket amount high enough for a prize
 
  var ticketNumber =prompt("How many tickets do you have?\nPlease enter a number.");
 
@@ -24,7 +25,15 @@ Conditionals Homework
   console.log("You earned a Tier 2 Prize!");
  }else if(ticketNumber<=799){
   console.log("You have earned a Tier 3 Prize!");
- }else if(ticketNumber<=499){
+ }else if(ticketNumber<=499) {
   console.log("Sorry, you do not have enough tickets for a Prize");
+ }
+  //Validate prompt
+  if(isNaN(ticketNumber) || ticketNumber===""{
+   if(isNaN(steakTemp)){
+    prompt("Please only use a number value");
+   }else
+   prompt("Do not leave blank, please enter a number.");
+       }
  }
 
