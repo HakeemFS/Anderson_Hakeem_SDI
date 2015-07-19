@@ -36,7 +36,7 @@ Conditionals Homework
   //Validate prompt
   if(isNaN(ticketNumber) || ticketNumber===""){
    if(isNaN(ticketNumber)){
-    prompt("Please only use a number value");
+    prompt("Please only use a numeric value");
    }else
    prompt("Do not leave blank, please enter a number.");
        }
@@ -47,9 +47,16 @@ Conditionals Homework
  //Tier 2 Prizes = Beats Headphones || SmartWatch
  //Tier 3 Prizes = Hoodie || Tee Shirt
 
+
+
  if (ticketNumber>=1000){
   prompt("You are a Tier 1 Prize Winner!\nYou won your choice between an Xbox One or Playstation 4!\nChoose 1 on your keyboard for the Xbox One.\nChoose 4 on your keyboard for the Playstation 4.");
-
+if (1) {
+ prompt("You chose the Xbox One!\nIs that correct?\nPlease type Yes or No");
+ if ("Yes"){
+  alert("Enjoy your Xbox One!");
+ }
+}
  }
 
 
@@ -58,6 +65,10 @@ Conditionals Homework
 /*
 //How many tickets do you have?
 1200
+//Choose 1 for Xbox One and 4 for Playstation 4.
+1
+//You Chose the Xbox One is that correct?
+Yes
 
 
  */
