@@ -43,32 +43,57 @@ Conditionals Homework
 
  //Selecting your Prize
 
- //Tier 1 Prizes = Xbox One || Playstation 4
- //Tier 2 Prizes = Beats Headphones || SmartWatch
- //Tier 3 Prizes = Hoodie || Tee Shirt
+ //Tier 1 Prizes = Xbox One
+ //Tier 2 Prizes = Beats Headphones
+ //Tier 3 Prizes = Hoodie
 
 
 
  if (ticketNumber>=1000){
-  prompt("You are a Tier 1 Prize Winner!\nYou won your choice between an Xbox One or Playstation 4!\nChoose 1 on your keyboard for the Xbox One.\nChoose 4 on your keyboard for the Playstation 4.");
+  prompt("You are a Tier 1 Prize Winner!\nYour prize is an Microsoft Xbox One!\nPlease type 1 on your keyboard to confirm your prize");
 if (1) {
- prompt("You chose the Xbox One!\nIs that correct?\nPlease type Yes or No");
- if ("Yes"){
+ prompt("You chose to redeem your prize the Xbox One now!\nIs that correct?\nPlease type Yes or No");
+ if ("Yes")
   alert("Enjoy your Xbox One!");
+  else if ("No")
+  alert("Ok! Keep your tickets for another time!");
+  else if (ticketNumber>=800 && ticketNumber<1000){
+   prompt("You are a Tier 2 Prize Winner!\nYour prize is a pair of Beats by Dre Headphones!\nPlease type 2 on your keyboard to confirm your prize.");
+   if (2){
+    prompt("You chose to redeem your prize Beats by Dre headphones now!\nIs that correct?\nPlease type Yes or No");
+    if ("Yes")
+    alert("Enjoy your Beast by Dre Headphones!");
+     else if ("No")
+     prompt("Ok! Keep your tickets for another time!");
+    else if (ticketNumber>=500 && ticketNumber<800){
+     prompt("You are a Tier 3 Prize winner!\nYou won a Hoodie!\nPlease type 3 on your keyboard to confirm your prize.");
+     if (3){
+      prompt("You chose to redeem your prize Hoodie now!\nIs that correct?\nPlease type Yes or No");
+      if ("Yes")
+      alert("Enjoy your stylish Hoodie!");
+      else if ("No"){
+       alert("Ok! Keep your tickets for another time!");
+
+      }
+     }
+    }
+   }
+  }
  }
 }
- }
+
 
 
 
 
 /*
 //How many tickets do you have?
-1200
-//Choose 1 for Xbox One and 4 for Playstation 4.
+11200
+//Choose 1 for Xbox One.
 1
 //You Chose the Xbox One is that correct?
 Yes
-
+Alert
+Enjoy your Xbox one!
 
  */
