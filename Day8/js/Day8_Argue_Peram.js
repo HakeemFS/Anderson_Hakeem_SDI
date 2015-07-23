@@ -7,7 +7,7 @@ Arguments & Parameter's
  */
 
 
-alert("Testing to see if this works");
+//alert("Testing to see if this works");
 
  //Arguments go in the function calls and these are the specific values
  //Perameters go in the fucntion definetion and cath the argements - Generic Containters
@@ -20,8 +20,8 @@ alert("Testing to see if this works");
 
  function calcArea(){
   //Create car
-  var width = 10;
-  var height = 20;
+   //width = 10;
+   //height = 20;
   //calculate
   var area = width*height;
   //console
@@ -29,6 +29,9 @@ alert("Testing to see if this works");
 
  }
 
- //call the funciton
+ //call the function
  calcArea();
+ //change the var
+ width = 50;
+ height = 10;
  calcArea();
