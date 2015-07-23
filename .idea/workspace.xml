@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="38d895db-c6bd-4cce-ba03-f4b8f4583f23" name="Default" comment="" />
+    <list default="true" id="38d895db-c6bd-4cce-ba03-f4b8f4583f23" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day8/js/Day8_Argue_Peram.js" afterPath="$PROJECT_DIR$/Day8/js/Day8_Argue_Peram.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="Anderson_Hakeem_SDI.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,21 +24,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Day8_Function_Scopes.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Day8/js/Day8_Function_Scopes.js">
+      <file leaf-file-name="Day8_Argue_Peram.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Day8/js/Day8_Argue_Peram.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.29090908">
-              <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+              <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Day8_Scopes.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day8/Day8_Scopes.html">
+      <file leaf-file-name="Day8_Argue_Peram.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day8/Day8_Argue_Peram.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.875">
-              <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+            <state vertical-scroll-proportion="-3.125">
+              <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -99,6 +102,8 @@
         <option value="$PROJECT_DIR$/Day8/js/Day8_Functions.js" />
         <option value="$PROJECT_DIR$/Day8/Day8_Scopes.html" />
         <option value="$PROJECT_DIR$/Day8/js/Day8_Function_Scopes.js" />
+        <option value="$PROJECT_DIR$/Day8/Day8_Argue_Peram.html" />
+        <option value="$PROJECT_DIR$/Day8/js/Day8_Argue_Peram.js" />
       </list>
     </option>
   </component>
@@ -742,18 +747,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Day8/js/Day8_Function_Scopes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.29090908">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Day8/Day8_Scopes.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.875">
+        <state vertical-scroll-proportion="0.056179777">
           <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day8/js/Day8_Function_Scopes.js">
+    <entry file="file://$PROJECT_DIR$/Day8/Day8_Argue_Peram.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.125">
+          <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day8/js/Day8_Argue_Peram.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.29090908">
-          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
           <folding />
         </state>
       </provider>
