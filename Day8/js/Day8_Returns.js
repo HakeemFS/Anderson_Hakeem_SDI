@@ -42,4 +42,3 @@ Returns
  var total = results + results2;
  console.log("The combined area of both is "+total);
 
- 
