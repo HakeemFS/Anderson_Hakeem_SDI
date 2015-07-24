@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38d895db-c6bd-4cce-ba03-f4b8f4583f23" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day8/js/Day8_Returns.js" afterPath="$PROJECT_DIR$/Day8/js/Day8_Returns.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ArrayLoop_Worksheet/js/ArrayLoops_Worksheet.js" afterPath="$PROJECT_DIR$/ArrayLoop_Worksheet/js/ArrayLoops_Worksheet.js" />
     </list>
     <ignored path="Anderson_Hakeem_SDI.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -33,21 +33,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ArrayLoops_Worksheet.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ArrayLoops_Worksheet.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ArrayLoop_Worksheet/js/ArrayLoops_Worksheet.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4181818">
-              <caret line="23" column="3" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Day6_for_loops.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day 6/js/Day6_for_loops.js">
-          <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+              <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -58,6 +48,16 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-3.125">
               <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Day6_for_loops.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Day 6/js/Day6_for_loops.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.56363636">
+              <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -844,14 +844,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ArrayLoop_Worksheet/ArrayLoops_Worksheet.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.125">
-          <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Anderson_Hakeem_Conditionals_Assignment/js/conditionalsAssignment.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -860,18 +852,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day 6/js/Day6_for_loops.js">
+    <entry file="file://$PROJECT_DIR$/ArrayLoop_Worksheet/js/ArrayLoops_Worksheet.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ArrayLoop_Worksheet/js/ArrayLoops_Worksheet.js">
+    <entry file="file://$PROJECT_DIR$/ArrayLoop_Worksheet/ArrayLoops_Worksheet.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4181818">
-          <caret line="23" column="3" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
+        <state vertical-scroll-proportion="-3.125">
+          <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 6/js/Day6_for_loops.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.56363636">
+          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
           <folding />
         </state>
       </provider>
