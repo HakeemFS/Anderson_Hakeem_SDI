@@ -26,3 +26,21 @@ Random number
 
  //Number cast or parseInt
  min=Number(min);
+
+ //Variable for max
+ var max=prompt("Pleae enter the max value");
+
+ //Validate prompt
+ while((isNaN(max) || max==="") || max<=min){
+  if(isNaN(max)) {
+   max = prompt("Please only use numbers.\nWhat is the max value?");
+  } else if (max<=min && man!=""){
+   max=prompt("Please make sure the ax value is grater than the min value of "+min+".\nWhat is he max value?");
+
+  }else{
+   max=prompt("Please do not leave blank.\nWhat is the max value?");
+  }
+ }
+
+ //Number cast
+ max=Number(max);
