@@ -44,3 +44,29 @@ Random number
 
  //Number cast
  max=Number(max);
+
+ //Test to check values of max and min
+ console.log("The min value is "+min+".\nThe max value is "+max);
+
+ //Function call the randomizer
+ var results1 = randomizer(min,max);
+//console.log("Your random number is "+results1);
+
+ //15 random numbers to print the console.log
+ for(var i=0; i<15; i++){
+
+  var tempNum=randomizer(min,max);
+  console.log(tempNum)
+ }
+
+
+
+ //Create the random function
+ function randomizer(mn, mx){
+  //Generate random num
+  var randomNum = Math.round(Math.random()*(mx-mn)+mn;
+  //console.log(randomNum);
+  //Return the random number in the code
+  return randomNum;
+
+ }
