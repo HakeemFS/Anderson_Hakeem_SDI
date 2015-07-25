@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="38d895db-c6bd-4cce-ba03-f4b8f4583f23" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 9/js/Day9_Random.js" afterPath="$PROJECT_DIR$/Day 9/js/Day9_Random.js" />
-    </list>
+    <list default="true" id="38d895db-c6bd-4cce-ba03-f4b8f4583f23" name="Default" comment="" />
     <ignored path="Anderson_Hakeem_SDI.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,21 +21,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Day9_Random.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Day 9/js/Day9_Random.js">
+      <file leaf-file-name="Day9_Procedures.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Day 9/js/Day9_Procedures.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.59407216">
-              <caret line="59" column="30" selection-start-line="59" selection-start-column="30" selection-end-line="59" selection-end-column="30" />
+            <state vertical-scroll-proportion="0.6958763">
+              <caret line="36" column="26" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Random_Number.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day 9/Random_Number.html">
+      <file leaf-file-name="Day9_Procedures.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day 9/Day9_Procedures.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-3.125">
-              <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+              <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -109,6 +107,8 @@
         <option value="$PROJECT_DIR$/ArrayLoop_Worksheet/js/ArrayLoops_Worksheet.js" />
         <option value="$PROJECT_DIR$/Day 9/Random_Number.html" />
         <option value="$PROJECT_DIR$/Day 9/js/Day9_Random.js" />
+        <option value="$PROJECT_DIR$/Day 9/Day9_Procedures.html" />
+        <option value="$PROJECT_DIR$/Day 9/js/Day9_Procedures.js" />
       </list>
     </option>
   </component>
@@ -921,6 +921,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.59407216">
           <caret line="59" column="30" selection-start-line="59" selection-start-column="30" selection-end-line="59" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 9/Day9_Procedures.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.125">
+          <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 9/js/Day9_Procedures.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6958763">
+          <caret line="36" column="26" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
           <folding />
         </state>
       </provider>
