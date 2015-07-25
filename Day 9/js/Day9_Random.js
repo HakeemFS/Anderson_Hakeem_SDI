@@ -56,15 +56,19 @@ Random number
  for(var i=0; i<15; i++){
 
   var tempNum=randomizer(min,max);
-  console.log(tempNum)
+  randomArray[i]=tempNum;
+  console.log(tempNum);
+  total +=tempNum
  }
 
-
+//Console log the total
+ console.log(randomArray);
+ console.log("The total of 15 random number is "+total);
 
  //Create the random function
  function randomizer(mn, mx){
   //Generate random num
-  var randomNum = Math.round(Math.random()*(mx-mn)+mn;
+  var randomNum = Math.round(Math.random()*(mx-mn)+mn);
   //console.log(randomNum);
   //Return the random number in the code
   return randomNum;
