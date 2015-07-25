@@ -50,13 +50,15 @@ Random number
 
  //Function call the randomizer
  var results1 = randomizer(min,max);
+ var randomArrary=[];
+ var total =0;
 //console.log("Your random number is "+results1);
 
  //15 random numbers to print the console.log
- for(var i=0; i<15; i++){
+ for(var i=0; i<50; i++){
 
-  var tempNum=randomizer(min,max);
-  randomArray[i]=tempNum;
+  var tempNum=randomizer(10,20);
+  randomArrary[i]=tempNum;
   console.log(tempNum);
   total +=tempNum
  }
