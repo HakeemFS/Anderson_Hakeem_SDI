@@ -39,4 +39,8 @@ var mondayTuesday = function(m,t){
  var average = mondayTuesday(8,12);
  console.log(average);
 
- 
+ /*
+ //Test Values
+ f,s = 8,3
+ m,t = 8,12
+  */
