@@ -17,7 +17,7 @@ Functions Assignment
  }
 
 
- //Creating Normal Function
+ //Creating Function
  function averageWeekendHours (f,s){
   var totalTime = (f*s)/2;
   //Return Total
@@ -27,3 +27,16 @@ Functions Assignment
  //Function call to hoursWorked
  var time = averageWeekendHours(8,3);
  console.log("Your average hours worked on Friday and Saturday is "+time+" hours.");
+
+ //Anon Function for Monday & Tuesday's hours
+
+var mondayTuesday = function(m,t){
+ var mtHours = (m*t)/2;
+ return mtHours;
+};
+
+ //Function call to anon function
+ var average = mondayTuesday(8,12);
+ console.log(average);
+
+ 
