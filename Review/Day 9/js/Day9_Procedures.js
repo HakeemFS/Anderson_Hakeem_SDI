@@ -12,7 +12,7 @@ Procedures
  //This is a normal function
  function calcArea(w,h){
   var area = w*h;
-  //Returns a variable
+  //Returnes a variable
   return area;
 
  }
